@@ -1,0 +1,2 @@
+# NrimanovskiyOgurchik
+Setting up git
